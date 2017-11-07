@@ -1,0 +1,16 @@
+{
+    "id": "replit",
+    "name": "Repl.it",
+    "version": "1.0.0",
+    "description": "Repl.it development environment",
+    "main": "index.js",
+    "author": "Liam Martens <hi@liammartens.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://repl.it/",
+      "message": "",
+      "popup": [],
+      "hasNotificationSound": false,
+      "hasIndirectMessages": false
+    }
+}
